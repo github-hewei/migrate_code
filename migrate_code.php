@@ -2,7 +2,7 @@
 
 /* Yii2Framework Migrations File Generate. */
 /* Time: 2023-01-13 00:13:00 */
-/* Example: `php migrate_code.php table_name [...table_name]` */
+/* Example: `php migrate_code.php table1 table2 table3` */
 
 ini_set('display_errors', 'On');
 ini_set('date.timezone', 'Asia/Shanghai');
